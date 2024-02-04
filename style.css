@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+    height: 120px;
+}
+
+header a {
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 100px;
+}
+
+main a {
+    margin-left: 350px;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+p img {
+    height: 350px;
+}
+
+p {
+    text-align: center;
+}
+
+
+img {
+    height: 350px;
+}
+
+
+.q {
+    list-style: url("/uploads/2021/01/%D0%BD%D0%BE%D1%82%D0%B0_0_1610638133.svg")
+}
+
+
+
